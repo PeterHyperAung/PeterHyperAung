@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Phone Aung</h1>
-<h3 align="center">Just a student from Myanmar who is learning programming, web development and hacking simultaneously </h3>
+<h3 align="center">Just a tech enthusiast from Myanmar </h3>
 
 - 🌱 I’m currently learning **PHP, Laravel, Node.js, React.js and etc**
 
