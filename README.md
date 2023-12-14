@@ -1,3 +1,4 @@
+<style>a {text-decoration: none;}</style>
 <h1 align="center">Hi 👋, I'm Min Phone Aung</h1>
 <h3 align="center">Just a tech enthusiast from Myanmar </h3>
 
