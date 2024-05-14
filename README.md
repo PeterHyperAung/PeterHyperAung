@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Min Phone Aung</h1>
 <h3 align="center">Just a tech enthusiast from Myanmar </h3>
 
-- 🌱 I’m currently learning **PHP, Laravel, Node.js, React.js and etc**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **fundamentals of web development**
 
