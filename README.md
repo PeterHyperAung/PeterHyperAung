@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://peterhyperaung.vercel.app/](https://peterhyperaung.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://minphoneaung.me/](https://minphoneaung.me/)
 
 - 💬 Ask me about **JavaScript, React, Node.js**
 
